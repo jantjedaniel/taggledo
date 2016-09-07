@@ -1,0 +1,10 @@
+#
+# Words to turn into tags in Toodledo.
+#
+_Waiting: Waiting for, Waiting on
+AP, Prentice
+Ari, Ariadna
+Brainwood
+Isa, Isabel
+Nhi  
+Pete, Peter, Obara
